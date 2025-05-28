@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://lojavialuminis.com/kitsoescolaautismo",
+            "url": "https://lojavialuminis.com/kitsoescolaautismo",
+            "name": "KIT SÓ ESCOLA AUTISMO - Atividades Lúdicas e Atualizadas",
+            "isPartOf": {
+                "@id": "https://maroon-weasel-577047.hostingersite.com/#website"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://lojavialuminis.com/kitsoescolaautismo#primaryimage"
+            },
+            "image": {
+                "@id": "https://lojavialuminis.com/kitsoescolaautismo#primaryimage"
+            },
+            "thumbnailUrl": "https://lojavialuminis.com/AUTISMO.png",
+            "datePublished": "2020-08-18T02:00:26+00:00",
+            "dateModified": "2025-02-10T02:50:12+00:00",
+            "description": "O kit é para crianças com até 10 anos de idade, mas também pode ser usado por crianças de outra faixa etária como um reforço de aprendizado.",
+            "breadcrumb": {
+                "@id": "https://lojavialuminis.com/kitsoescolaautismo#breadcrumb"
+            },
+            "inLanguage": "pt-BR",
+            "potentialAction": [
+                {
+                    "@type": "ReadAction",
+                    "target": [
+                        "https://lojavialuminis.com/kitsoescolaautismo"
+                    ]
+                }
+            ]
+        },
+        {
+            "@type": "ImageObject",
+            "inLanguage": "pt-BR",
+            "@id": "https://lojavialuminis.com/kitsoescolaautismo#primaryimage",
+            "url": "https://lojavialuminis.com/kitsoescolaautismo/images/AUTISMO.png",
+            "contentUrl": "https://lojavialuminis.com/kitsoescolaautismo/images/AUTISMO.png",
+            "width": 1200,
+            "height": 630,
+            "caption": "KIT SÓ ESCOLA AUTISMO - ATIVIDADES LÚDICAS E ATUALIZADAS"
+        },
+        {
+            "@type": "BreadcrumbList",
+            "@id": "https://lojavialuminis.com/kitsoescolaautismo#breadcrumb",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Início",
+                    "item": "https://maroon-weasel-577047.hostingersite.com/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "KIT SÓ ESCOLA AUTISMO &#8211; Atividades Lúdicas e Atualizadas"
+                }
+            ]
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://maroon-weasel-577047.hostingersite.com/#website",
+            "url": "https://maroon-weasel-577047.hostingersite.com/",
+            "name": "KIT SÓ ESCOLA",
+            "description": "Atividades para Alfabetização.",
+            "publisher": {
+                "@id": "https://maroon-weasel-577047.hostingersite.com/#organization"
+            },
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "urlTemplate": "https://maroon-weasel-577047.hostingersite.com/?s={search_term_string}"
+                    },
+                    "query-input": {
+                        "@type": "PropertyValueSpecification",
+                        "valueRequired": true,
+                        "valueName": "search_term_string"
+                    }
+                }
+            ],
+            "inLanguage": "pt-BR"
+        },
+        {
+            "@type": "Organization",
+            "@id": "https://maroon-weasel-577047.hostingersite.com/#organization",
+            "name": "J.A BERTOTTO",
+            "url": "https://maroon-weasel-577047.hostingersite.com/",
+            "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "pt-BR",
+                "@id": "https://maroon-weasel-577047.hostingersite.com/#/schema/logo/image/",
+                "url": "https://lojavialuminis.com/kitsoescolaautismo/images/KIT-SÓ-ESCOLA-2.png",
+                "contentUrl": "https://lojavialuminis.com/kitsoescolaautismo/images/KIT-SÓ-ESCOLA-2.png",
+                "width": 325,
+                "height": 100,
+                "caption": "J.A BERTOTTO"
+            },
+            "image": {
+                "@id": "https://maroon-weasel-577047.hostingersite.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+                "https://www.facebook.com/Kit-Só-Escola-101170895023711/?modal=admin_todo_tour",
+                "http://instagram.com/vialuminisbrasil",
+                "https://br.pinterest.com/vialuminisbrasil/"
+            ]
+        }
+    ]
+}
